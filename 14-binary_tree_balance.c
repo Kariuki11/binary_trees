@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_height_b - function that measures the balance factor of a binary tree
+ * binary_tree_height_b - function that measures balance factor of binary tree
  * @tree: tree to go through
  * Return: the height
  */
